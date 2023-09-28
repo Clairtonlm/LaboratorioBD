@@ -1,6 +1,10 @@
-USE empresa;
+create table servidores(
+nome varchar(100),
+espaco_disco int(10),
+ligado boolean
+);
+select * from servidores;
 
-select * from pessoas;
-CREATE TABLE gerentes(nome varchar(100), matricula char(10), funcao varchar(20));
-select * from gerentes;
-
+insert into servidores ( nome, espaco_disco, ligado) values ( "Linux", 100, 0);
+insert into servidores ( nome, espaco_disco, ligado) values ( "Microsoft", 100, 1);
+insert into servidores ( nome, espaco_disco, ligado) values ( "Mac", 1002356623, 1);
