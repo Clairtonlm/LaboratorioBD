@@ -1,0 +1,12 @@
+use empresa;
+CREATE TABLE aniversario (nome VARCHAR(100), data_nascimento DATE);
+insert into aniversario ( nome, data_nascimento) values("João da silva", "1999-09-26");
+select * from aniversario;
+insert into aniversario ( nome, data_nascimento) values("", "");
+insert into aniversario ( nome, data_nascimento) values("Noah ravi ", "2020-05-20");
+ALTER table aniversario ADD COLUMN cpf CHAR(11);
+select * from funcionarios;
+ALTER table funcionarios ADD COLUMN cpf CHAR(11);
+insert into funcionarios  (id, nome, idade, cpf) values(5, "Juliana", 35, "00200300201"); 
+insert into funcionarios  (id, nome, idade, cpf) values(6, "TETE", 35, "00200300201"); 
+ALTER TABLE funcionarios DROP COLUMN id;
