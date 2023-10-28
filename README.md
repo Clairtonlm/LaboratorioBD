@@ -9,7 +9,7 @@ curso_sql-main: Pasta contendo recursos relacionados ao curso SQL.
 Pastas e Arquivos
 EmpresaBD: Pasta principal do projeto CRUD em MySQL.
 
-Projeto CRUD MySQL: Descrição detalhada do projeto.
+Projeto CRUD MySQL: Descrição detalhada do projeto de Estudo
 Código-Fonte: Contém todos os scripts e arquivos relacionados ao sistema CRUD.
 Documentação: Documentação técnica e guias de uso.
 Instruções de Instalação: Guia passo a passo para configurar e executar o sistema.
