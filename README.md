@@ -2,7 +2,7 @@ Descrição
 Este é o README para o projeto "EmpresaBD". O projeto inclui um sistema CRUD (Create, Read, Update, Delete) desenvolvido em MySQL para gerenciamento de dados de uma empresa. Além disso, o repositório contém informações relacionadas a um curso de SQL.
 
 Estrutura do Projeto
-O projeto está organizado da seguinte maneira:
+O projeto está organizado da seguinte maneira de estrutura:
 
 EmpresaBD: Pasta principal do projeto CRUD em MySQL.
 curso_sql-main: Pasta contendo recursos relacionados ao curso SQL.
