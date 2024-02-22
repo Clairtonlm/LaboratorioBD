@@ -15,7 +15,7 @@ O projeto está organizado da seguinte maneira:
   - *Documentação*: Documentação técnica e guias de uso.
   - *Instruções de Instalação*: Guia passo a passo para configurar e executar o sistema.
 
-**curso_sql-main**: Pasta relacionada ao curso SQL.
+**curso_sql-main**: Pasta relacionada ao curso SQL baco de dados.
 
 - *Início do Curso*: Material inicial e informações sobre o curso.
 - *Recursos do Curso*: Conteúdo didático, apresentações, etc.
